@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lerato-Lee
 - 👀 I’m interested in Front-End, Flutterweb and Mobile App developement
 - 🌱 I’m currently learning Back-End
-- 💞️ I’m looking to collaborate on Flutter projects, Mobile apps 
+- 💞️ I’m looking to collaborate on Flutter projects, Mobile apps, content writing, and web developement
 - 📫 How to reach me:
 - email: mthimkhululerato72@gmail.com
 - 
