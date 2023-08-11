@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lerato-Lee
 - 👀 I’m interested in Front-End, Web development, Cybersecurity
 - 🌱 I’m currently learning Back-End
-- 💞️ I’m looking to collaborate on Flutter projects, Mobile apps, content writing, and web developement
+- 💞️ I’m looking to collaborate on Flutter projects, Android dev, content writing, and web developement
 - 📫 How to reach me:   [<img src="https://img.shields.io/badge/Portfolio-20d6fe.svg?&style=plastic"/>](https://leecodes.pages.dev/)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/lerato-m-a63a7b25a/)
  
